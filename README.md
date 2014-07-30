@@ -19,7 +19,7 @@ Competitors/related projects
 * Ben Collins-Sussman's effrecipes - Simple, but it works. Not under active development.
 * Recipes on Rails - Ruby on Rails recipes site. Not open source as far as I know. Embeds "Source: Recipes on Rails" on all photos and has google ads. Great site though. One thing it has that my site lacks is per-direction photos. This would be easy to do. I already have per-direction ingredients.
 
-If you are aware of any other similar projects please let me know. I am especially interested in any other web-based and open-source cookbook projects.
+If you are aware of any other similar projects please let me know. I am especially interested in any other web-based and open-source cookbook projects...
 
 Getting started
 ===============
